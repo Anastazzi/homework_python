@@ -35,10 +35,3 @@ def get_elements_while(list_):  # фунция вывода элементов �
 
 print(get_elements_while(array))
 
-
-#
-# [
-#  '  *  ',
-#  ' *** ',
-#  '*****',
-#  ]
